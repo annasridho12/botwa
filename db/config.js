@@ -1,15 +1,15 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ['6285773305337']
+global.owner = ['6285773305337'] //Ganti
 global.botName = 'Titanz Store' //Ganti
 global.ownerName = 'JF Dev' //Ganti
 global.sessionName = 'session-bot'
 
-global.gold = 50000
-global.platinum = 100000
+global.gold = 50000 //Ganti harga role gold
+global.platinum = 100000 //Ganti harga role platinum
 
-// Untuk case 'pay'
+// Untuk case 'pay' ganti aja
 global.pay = `Untuk Pembayaran Silahkan Transfer ke Payment dibawah ini
 
 Bank dan E-Wallet
