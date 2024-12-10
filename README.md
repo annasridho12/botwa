@@ -31,8 +31,9 @@ Sebelum menyiapkan bot, pastikan Anda memiliki:
 - **Alamat IP Anda harus di-whitelist** agar bot dapat beroperasi. Pastikan IP Anda sudah ditambahkan ke daftar yang diizinkan untuk mencegah akses yang tidak sah.
   [Klik di sini untuk menambahkan IP Anda](https://wa.me/6285773305337?text=Halo,+mau+add+ip)
 
-### TUTORIAL BIKIN DATABASE MONGODB
-[Klik disini](https://www.youtube.com/watch?v=JtRUihD-TP4)
+### TUTORIAL 
+Pasang/Run Bot [Klik disini](https://www.youtube.com/watch?v=P6Z99nZ_C70)
+Bikin Database MongoDB [Klik disini](https://www.youtube.com/watch?v=JtRUihD-TP4)
 
 ### Instalasi
 
