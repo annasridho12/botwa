@@ -6,6 +6,8 @@ global.botName = 'Titanz Store' //Ganti
 global.ownerName = 'JF Dev' //Ganti
 global.sessionName = 'session-bot'
 
+global.user = 'xxx' // Daftar di https://j-f.cloud/api/wl
+
 global.gold = 50000 //Ganti harga role gold
 global.platinum = 100000 //Ganti harga role platinum
 
